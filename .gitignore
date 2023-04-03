@@ -1,0 +1,12 @@
+target/analysis
+target/classes
+target/cucumber-html-reports/*
+target/gatling/*
+target/generated-test-sources
+target/karate-reports/*
+target/maven-status
+target/surefire-reports
+target/test-classes
+.vscode
+target/karate.log
+
